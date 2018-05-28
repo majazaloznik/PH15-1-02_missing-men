@@ -1,0 +1,9 @@
+OK, so I need to map a world map, and do so with as little fuss as possible. 
+
+i need both mapping data, as well as a mapping package
+
+1. mapping data:
+
+`rnaturalearth` seems to be one source. using countires 110 has 177 polygons and same number of names.
+
+`worldmap` is another data package i think, but seems to be based on rnaturalearth anyway? Hmm, so using worldmap::countriesCoarse has 243 polygons, and 202 country names
